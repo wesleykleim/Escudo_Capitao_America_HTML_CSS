@@ -1,5 +1,5 @@
 # Escudo_Capitao_America_HTML_CSS
-Construção simples do HTML com 5 <div>s.
+Construção simples do HTML com 5 divs.
   
 Estilização em css através das 'class' dado forma com atribuições de valores as margens, bordas, alinhamento e criação das variáveis de cores de degradê.
   
